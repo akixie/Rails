@@ -5,7 +5,10 @@ Ruby on Rails 实例源码
 Rails入门文章来源：http://guides.ruby-china.org/getting_started.html
 
 ![Rails入门]
-(https://github.com/akixie/Ruby-on-Rails-Tutorial-Sample/blob/master/RailsGetting_started.png?raw=true)
+(https://raw.githubusercontent.com/akixie/Ruby-on-Rails-Tutorial-Sample/master/RailsGetting_started.png)
 
+![实例效果图]
+(https://raw.githubusercontent.com/akixie/Ruby-on-Rails-Tutorial-Sample/master/Start01.png)
+(https://raw.githubusercontent.com/akixie/Ruby-on-Rails-Tutorial-Sample/master/Start02.png)
 
 
