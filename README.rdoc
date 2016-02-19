@@ -1,8 +1,7 @@
 
 Ruby on Rails 实例源码
 
-1.ruby on rails入门官方文档实例源码
 
-![Rails入门](https://github.com/akixie/Ruby-on-Rails-Tutorial-Sample/blob/master/RailsGetting_started.png?raw=true)
+![Rails入门](https://github.com/akixie/Ruby-on-Rails-Tutorial-Sample/raw/master/RailsGetting_started.png?raw=true)
 
-https://github.com/akixie/Ruby-on-Rails-Tutorial-Sample/raw/master/RailsGetting_started.png?raw=true
+
