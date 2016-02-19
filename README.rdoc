@@ -5,4 +5,4 @@ Ruby on Rails 实例源码
 
 ![Rails入门](https://github.com/akixie/Ruby-on-Rails-Tutorial-Sample/blob/master/RailsGetting_started.png?raw=true)
 
-
+https://github.com/akixie/Ruby-on-Rails-Tutorial-Sample/raw/master/RailsGetting_started.png?raw=true
