@@ -9,6 +9,8 @@ Rails入门文章来源：http://guides.ruby-china.org/getting_started.html
 
 ![实例效果图]
 (https://raw.githubusercontent.com/akixie/Ruby-on-Rails-Tutorial-Sample/master/Start01.png)
-(https://github.com/akixie/Ruby-on-Rails-Tutorial-Sample/blob/master/Start02.png?raw=true)
+
+![02](https://github.com/akixie/Ruby-on-Rails-Tutorial-Sample/blob/master/Start02.png?raw=true)
+
 
 
