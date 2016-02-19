@@ -4,6 +4,8 @@ Ruby on Rails 实例源码
 1.ruby on rails入门官方文档实例源码
 Rails入门文章来源：http://guides.ruby-china.org/getting_started.html
 
+![Rails入门](https://raw.githubusercontent.com/akixie/Ruby-on-Rails-Tutorial-Sample/master/RailsGetting_started.png)
+
 ![Rails入门]
 (https://raw.githubusercontent.com/akixie/Ruby-on-Rails-Tutorial-Sample/master/RailsGetting_started.png)
 
